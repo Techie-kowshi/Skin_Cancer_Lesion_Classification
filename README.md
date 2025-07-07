@@ -3,11 +3,6 @@
 📁 Dataset
 Source: Kaggle dataset fanconic/skin-cancer-malignant-vs-benign
 
-Structure:
-
-/data/train/malignant/
-
-/data/train/benign/
 
 📌 Notebook Overview
 1. Data Import
