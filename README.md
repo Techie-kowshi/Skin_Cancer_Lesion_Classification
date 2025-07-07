@@ -1,7 +1,7 @@
 # Skin_Cancer_Lesion_Classification
 
 📁 Dataset
-Source: Kaggle dataset fanconic/skin-cancer-malignant-vs-benign
+Source: https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
 
 
 📌 Notebook Overview
